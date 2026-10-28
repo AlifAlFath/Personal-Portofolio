@@ -12,7 +12,7 @@ const socialLinks = [
     displayName: "Let's Connect",
     subText: "on LinkedIn",
     icon: "/linkedin-logo-linkedin-icon-transparent-free-png.webp",
-    url: "https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage--homepage-frontend",
+    url: "https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage--homepage-frontend&utm_source=chatgpt.com",
     color: "#0A66C2",
     gradient: "from-[#0A66C2] to-[#0077B5]",
     isPrimary: true,

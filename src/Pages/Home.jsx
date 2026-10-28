@@ -11,7 +11,7 @@ const WORDS = ["Informatics Student", "Software Engineer", "Junior Developer"]
 
 const SOCIAL_LINKS = [
   { icon: Github,    link: "https://github.com/AlifAlFath",                                                                                       label: "GitHub" },
-  { icon: Linkedin,  link: "https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage--homepage-frontend",                          label: "LinkedIn" },
+  { icon: Linkedin,  link: "https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage--homepage-frontend&utm_source=chatgpt.com",                          label: "LinkedIn" },
   { icon: Instagram, link: "https://www.instagram.com/lipoowttpd",                                                                                     label: "Instagram" },
 ]
 
@@ -131,7 +131,7 @@ const Home = () => {
             "url": "https://muhalifalfath-portofolio-muh-alif-al-fath-ananta-surya-projects.vercel.app",
             "sameAs": [
               "https://github.com/AlifAlFath",
-              "https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage--homepage-frontend",
+              "https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage--homepage-frontend&utm_source=chatgpt.com",
               "https://www.instagram.com/lipoowttpd"
             ]
           }
