@@ -304,6 +304,7 @@ const AboutPage = () => {
         <div className="flex flex-col items-start gap-6 lg:hidden">
           {/* Photo */}
           <div className="flex justify-center w-full">
+              <img src="foto.webp" loading="lazy" width="800" height="600" alt="Portrait of Muh Alif Al Fath Ananta Surya in the About section of his portfolio."></img>
             <ProfileImage />
           </div>
           {/* Name */}
